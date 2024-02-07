@@ -9,10 +9,12 @@ Welcome to our Movie and Music Recommendation System project! This system utiliz
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Data Collection](#data-collection)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
+- [Usage](#Usage)
 - [Recommendation System](#recommendation-system)
 - [Contributing](#contributing)
+- [Commands](#Cpmmands)
 - [License](#license)
 
 ## Introduction
@@ -81,6 +83,7 @@ git push -u origin main
 git remote add origin https://github.com/KaushalKhachane/AMD-Movie-and-Music-Recommendations-JIRA.git
 git branch -M main
 git push -u origin main
+
 ## License
 
 can be used by anyone its a opensource
